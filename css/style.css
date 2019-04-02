@@ -209,7 +209,9 @@ p {
     justify-content: center;
     flex-wrap: wrap;
 }
-
+.portfolio-card{
+    margin-top: 3rem;
+}
 /* end divider */
 
 /* start about */
